@@ -1,1 +1,1 @@
-To jest zmiana do gałęzi
+To jest zmiana do gałęzi i dupa
